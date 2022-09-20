@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @DarChaos21
-- 👀 I’m interested in Videogames, Boardgames and Pen&Paper
-- 🌱 I’m currently learning on beeing a better developer
-- 💞️ I’m looking to collaborate on AGIC and Azure
+
